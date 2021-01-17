@@ -1,0 +1,4 @@
+{
+  "ip": "91.200.100.247",
+  "stop_when_invalid": true
+}
