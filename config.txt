@@ -1,4 +1,4 @@
 {
-  "ip": "91.200.100.247",
+  "ip": "https://api.customcore.eu/",
   "stop_when_invalid": true
 }
